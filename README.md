@@ -1,7 +1,7 @@
 # 💰 Personal Finance Tracker (Java)
 
 A simple command-line-based personal finance tracker built using Java.  
-This project allows users to track income and expenses, categorize transactions, and view summaries — a great example of Java programming in action.
+This project allows users to track income and expenses, categorize transactions, and view summaries.
 
 ---
 
