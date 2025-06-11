@@ -17,7 +17,6 @@ This project allows users to track income and expenses, categorize transactions,
 
 ## 📂 Project Structure
 
-
 ---
 
 ## 🛠 Technologies Used
