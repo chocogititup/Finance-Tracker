@@ -26,7 +26,7 @@ This project allows users to track income and expenses, categorize transactions,
 - Object-Oriented Programming (OOP)
 - Simple CLI interface (Scanner)
 
----
+--
 
 ## 🧪 How to Run
 
